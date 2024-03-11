@@ -1,9 +1,9 @@
 /*
 for compiling
-g++ -std=c++11 assignment6.cpp -o assignment6
+g++ -std=c++11 filename.cpp -o filename
 
 for output
-./assignment6
+./filename
 
 */
 
